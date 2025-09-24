@@ -1,7 +1,7 @@
 # CS255
 This repository contains my CS-255 Project Two: System Design Document and Client Presentation for the DriverPass system, completed as part of my coursework at Southern New Hampshire University. The project demonstrates my ability to design system models, document technical requirements, and communicate technical concepts to non-technical stakeholders.
 DriverPass is a proposed system designed to improve scheduling, training, and testing for student drivers. This project builds on earlier requirements gathering and focuses on system design, including UML modeling and client communication.
--Deliverables:
+# Deliverables:
 System Design Document
 UML Use Case Diagram
 UML Activity Diagrams (2)
