@@ -7,7 +7,7 @@ UML Use Case Diagram
 UML Activity Diagrams (2)
 UML Sequence Diagram (1)
 UML Class Diagram
--Technical Requirements (hardware, software, tools, and infrastructure):
+# Technical Requirements (hardware, software, tools, and infrastructure):
 Client Presentation
 System Requirements
 Use Case Overview
@@ -15,11 +15,11 @@ Activity Diagram Walkthrough
 Security Considerations
 System Limitations
 Designed for a non-technical client audience
--Tools & Technologies:
+# Tools & Technologies:
 Lucidchart for UML diagrams
 Microsoft Word & PowerPoint for documentation and presentation
 System Analysis & Design principles for requirements modeling
--Skills Demonstrated:
+# Skills Demonstrated:
 Requirements analysis and translation into system models
 UML diagramming (use case, activity, sequence, and class)
 Clear technical writing and documentation
